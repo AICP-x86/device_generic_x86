@@ -1,0 +1,7 @@
+[
+    {
+        "repository": "device_generic_x86",
+        "target_path": "device/generic/x86",
+        "branch": "mm6.0"
+    }
+]
